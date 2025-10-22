@@ -23,23 +23,27 @@ Key highlights:
 
 ## 🎼 Dataset
 
-### Summary
+### Dataset on Huggingface
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-dibahadie%2FPCMIR-yellow.svg)](https://huggingface.co/datasets/dibahadie/PCMIR)
+
+### Summary 
 
 - **Monophonic dataset:** ~16,800 5-second clips across 10 instrument classes  
   *(Ney, Tar, Santur, Kamancheh, Daf, Tonbak, Piano, Violin, Sitar, Avaz)*  
 - **Polyphonic (synthetic) dataset:** ~50,000 generated clips  
 - **Test set:** 372 manually labeled 5s real-world polyphonic excerpts
-- 
+
+
 ---
 
 ## 🎛️ Data Augmentation Modes
 
 | Mode | Description |
 |------|--------------|
-| `random` | Randomly mixed clips |
-| `bpm` | Same tempo, different dastgāh |
-| `dastgah` | Same dastgāh, different tempos |
-| `dastgah+bpm` | Same dastgāh *and* tempo (proposed method) |
+| `RAMDOM` | Randomly mixed clips |
+| `BPM` | Same tempo, different dastgāh |
+| `DASTGAH` | Same dastgāh, different tempos |
+| `DASTGAH_BPM` | Same dastgāh *and* tempo (proposed method) |
 
 **Finding:** Tonal alignment (dastgāh) and tempo alignment both improve classification performance.
 
