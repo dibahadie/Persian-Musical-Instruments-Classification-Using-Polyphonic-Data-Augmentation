@@ -10,9 +10,8 @@ from datasets import Dataset, Audio
 ds_main = load_dataset("dibahadie/PCMIR"))
 
 
-
 ds_val = ds_main['VAL']
-ds = load_dataset("dibahadie/BPM_DASTGAH")
+ds = ds_main['BPM_DASTGAH']
 
 
 def remove_parentheses(example):
