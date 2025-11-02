@@ -98,12 +98,12 @@ Sigmoid (multi-label output)
 
 ### Reported Results (from paper)
 
-| Augmentation | Accuracy | ROC-AUC |
-|---------------|-----------|----------|
-| Random | 0.769 | 0.755 |
-| BPM-only | 0.801 | 0.785 |
-| Dastgāh-only | **0.838** | 0.776 |
-| Dastgāh + BPM | 0.817 | **0.796** |
+| Data Augmentation | Accuracy | ROC-AUC | F1-score |
+|--------------------|-----------|----------|-----------|
+| Random | 0.794 | 0.750 | 0.606 |
+| BPM | 0.807 | 0.764 | 0.617 |
+| **Dastgah** | **0.841** | 0.780 | **0.669** |
+| Dastgah + BPM | 0.823 | **0.795** | 0.652 |
 
 > Evaluation conducted on 372 real-world 5s polyphonic samples.
 
