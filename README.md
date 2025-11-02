@@ -31,7 +31,7 @@ Key highlights:
 - **Monophonic dataset:** ~16,800 5-second clips across 10 instrument classes  
   *(Ney, Tar, Santur, Kamancheh, Daf, Tonbak, Piano, Violin, Sitar, Avaz)*  
 - **Polyphonic (synthetic) dataset:** ~50,000 generated clips  
-- **Test set:** 372 manually labeled 5s real-world polyphonic excerpts
+- **Test set:** 491 manually labeled 5s real-world polyphonic excerpts
 
 
 ---
