@@ -24,7 +24,7 @@ Key highlights:
 ## 🎼 Dataset
 
 ### Dataset on Huggingface
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-dibahadie%2FPCMIR-yellow.svg)](https://huggingface.co/datasets/dibahadie/PCMIR)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-dibahadie%2FPMID-yellow.svg)](https://huggingface.co/datasets/dibahadie/PMID)
 
 ### Summary 
 
