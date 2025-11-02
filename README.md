@@ -105,7 +105,7 @@ Sigmoid (multi-label output)
 | **Dastgah** | **0.841** | 0.780 | **0.669** |
 | Dastgah + BPM | 0.823 | **0.795** | 0.652 |
 
-> Evaluation conducted on 372 real-world 5s polyphonic samples.
+> Evaluation conducted on 491 real-world 5s polyphonic samples.
 
 ---
 
