@@ -15,9 +15,9 @@ Key highlights:
 - Introduces a novel *Dastgāh + BPM* polyphonic augmentation method.
 - Uses **MERT-v1-330M** as the pretrained backbone for multi-label classification.
 - Achieves:
-  - **ROC-AUC:** 0.796 (Dastgāh + BPM)
-  - **Accuracy:** 0.838 (Dastgāh-only)
-- Evaluated on a manually annotated real-world test set of **372 polyphonic 5-second excerpts**.
+  - **ROC-AUC:** 0.795 (Dastgāh + BPM)
+  - **Accuracy:** 0.841 (Dastgāh-only)
+- Evaluated on a manually annotated real-world test set of **491 polyphonic 5-second excerpts**.
 
 ---
 
